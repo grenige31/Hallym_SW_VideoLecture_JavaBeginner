@@ -1,8 +1,9 @@
-﻿package ch06.exam07_package.hy;
+﻿package ch06.exam05_package.ki;
+
 
 public class Car {
 	//필드
-	public String company = "h_motor";
+	public String company = "k_motor";
 	public String model;
 	public String color;
 
@@ -18,4 +19,3 @@ public class Car {
 		return this.company;
 	}
 }
-

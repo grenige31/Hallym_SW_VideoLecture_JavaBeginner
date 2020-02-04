@@ -2,7 +2,8 @@
 
 public class CarExample {
 	public static void main(String[] args) {
-		Car myCar = new Car();
-		//Car myCar = new Car();  (x)
+		System.out.println("main1");
+		Car car = new Car();
+		System.out.println("main2");
 	}
 }

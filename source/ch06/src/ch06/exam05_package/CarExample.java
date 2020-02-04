@@ -1,6 +1,6 @@
-﻿package ch06.exam07_package;
+﻿package ch06.exam05_package;
 
-import ch06.exam07_package.hy.Car;
+import ch06.exam05_package.ki.*;
 
 public class CarExample {
 	public static void main(String[] args) {
@@ -9,4 +9,3 @@ public class CarExample {
 		System.out.println();
 	}
 }
-

@@ -2,7 +2,7 @@ package ch05_pr;
 
 import java.util.Scanner;
 
-public class Pr1_8 {
+public class Pr1 {
 
 	public static void main(String[] args) {
 		//1. 배열 변수에 1-6반까지 평균 점수를 저장
